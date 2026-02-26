@@ -19106,7 +19106,7 @@
   "id": "blip-capture",
   "name": "Blip Capture",
   "author": "gamesinplay",
-  "description": "Quickly capture short notes (Blips) via hotkey or ribbon, view random blips, and manage your collection.",
+  "description": "Quickly capture short notes (Blips) via a hotkey or ribbon button and save them to a central file.",
   "repo": "gamesinplay/obsidian-blip-capture"
 }
 ]
